@@ -1,0 +1,7 @@
+fabric
+Django==1.4
+south>=0.7
+django-debug-toolbar
+BeautifulSoup
+feedparser
+html-tree-diff
