@@ -1,4 +1,7 @@
-*.log
-*.pot
 *.pyc
-local_settings.py
+*.pyo
+.idea*
+fabfile/config_local.py
+bobrot/settings/local.py
+bobrot/static/admin/*
+*.db
